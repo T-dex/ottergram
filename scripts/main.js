@@ -43,7 +43,7 @@ function showDetails() {
   frame.classList.add(TINY_EFFECT_CLASS);
   setTimeout(function() {
     frame.classList.remove(TINY_EFFECT_CLASS);
-  }, <i class="fas fa-signal-1    "></i>000);
+  }, 100);
 }
 function addKeyPressHandler() {
   document.body.addEventListener("keyup", function(event) {
