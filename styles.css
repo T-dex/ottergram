@@ -1,21 +1,21 @@
 
 @font-face{
   font-family:'airstream';
-  src:url('stylesheets/fonts/Airstream-webfont.eot');
-  src:url('stylesheets/fonts/Airstream-webfont.eot?img/otter.jpgiefix') format('embedded-opentype'),
-      url('stylesheets/fonts/Airstream-webfont.woff'),
-      url('stylesheets/fonts/Airstream-webfont.ttf'),
-      url('stylesheets/fonts/Airstream-webfont.svgimg/otter.jpglakeshore') format('svg');
+  src:url('./stylesheets/fonts/Airstream-webfont.eot');
+  src:url('./stylesheets/fonts/Airstream-webfont.eot?img/otter.jpgiefix') format('embedded-opentype'),
+      url('./stylesheets/fonts/Airstream-webfont.woff'),
+      url('./stylesheets/fonts/Airstream-webfont.ttf'),
+      url('./stylesheets/fonts/Airstream-webfont.svgimg/otter.jpglakeshore') format('svg');
   font-weight:normal;
   font-style:normal;
 }
 @font-face{
   font-family:'blakeshore';
-  src:url('stylesheets/fonts/LAKESHOR-webfont.eot');
-  src:url('stylesheets/fonts/LAKESHOR-webfont.eot?img/otter.jpgiefix') format('embedded-opentype'),
-      url('stylesheets/fonts/LAKESHOR-webfont.woff'),
-      url('stylesheets/fonts/LAKESHOR-webfont.ttf'),
-      url('stylesheets/fonts/LAKESHOR-webfont.svgimg/otter.jpglakeshore') format('svg');
+  src:url('./stylesheets/fonts/LAKESHOR-webfont.eot');
+  src:url('./stylesheets/fonts/LAKESHOR-webfont.eot?img/otter.jpgiefix') format('embedded-opentype'),
+      url('./stylesheets/fonts/LAKESHOR-webfont.woff'),
+      url('./stylesheets/fonts/LAKESHOR-webfont.ttf'),
+      url('./stylesheets/fonts/LAKESHOR-webfont.svgimg/otter.jpglakeshore') format('svg');
   font-weight:normal;
   font-style:normal;
 }
