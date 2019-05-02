@@ -20,7 +20,6 @@
   font-style:normal;
 }
 html, body{
-  /* Setting height for both allows content to fill screen */
   height:100%
 }
 body{
